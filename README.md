@@ -6,7 +6,13 @@ Implementing an *O(n lg n)* algorithm to determine the closest pair of points in
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#divide">Divide</a></li>
+        <li><a href="#conquer">Conquer</a></li>
+        <li><a href="#combine">Combine</a></li>
+      </ul>
+    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
